@@ -2,10 +2,10 @@
 title: Kristina P. Sinaga
 SEOTitle: My Personal Webpage
 header-img: img/IMG_2335.jpg
-email: krist.p.sinaga@gmail.com
+email: kristinasinaga41@gmail.com
 description: "Sharing your knowledge to others does not make you less important 😀"
 keyword: ""
-url: "https://patternkps.github.io/" # your host, for absolute URL
+url: "https://KristinaP09.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: PatternKPS
-linkedin_username:  kristina-p-sinaga-083503302
+github_username: KristinaP09
+linkedin_username:  kristina-p-sinaga-0ba152309
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -70,7 +70,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "A lifelong learner and not a people pleaser 😀"
-sidebar-avatar: https://cdn.jsdelivr.net/gh/patternkps/patternkps.github.io/img/Kris.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://cdn.jsdelivr.net/gh/KristinaP09/KristinaP09.github.io/img/Kris.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
