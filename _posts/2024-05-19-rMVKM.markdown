@@ -9,8 +9,7 @@ tags:
     - MVKM
     - MVKM-ED
     - GKMVKM
-    - k-means
-    - clustering
+    - k-means clustering
 ---
 
 <div class="content">
