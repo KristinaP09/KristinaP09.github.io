@@ -4,7 +4,6 @@ title:      "Rectified Gaussian kernel multi-view k-means clustering"
 date:       2024-05-15 10:00:00
 author:     "Kristina"
 header-img: "asset/rmvkm.png"
-header-style: text
 mathjax: true
 tags:
     - MVKM
