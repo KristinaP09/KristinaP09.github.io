@@ -4,7 +4,7 @@ In June 2020, I graduated from Chung Yuan Christian University (CYCU) with a Ph.
 
 
 
-`Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) and gmail (krist.p.sinaga@gmail.com) are no longer active (I forgot my password and disabled to recover 😉). All social media accounts associated with those email addresses aren't used anymore but still exists.`
+`If you think we may have some common interest, don't hesitate to contact me and have a little chat 😀`
 
 
 <div id="contact">
