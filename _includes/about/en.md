@@ -1,4 +1,4 @@
-Welcome to the realm where mathematical elegance meets practical innovation! I am Kristina, a passionate explorer of the intricate landscapes of Applied Mathematics 🤗.
+***Welcome to the realm where mathematical elegance meets practical innovation! I am Kristina, a passionate explorer of the intricate landscapes of Applied Mathematics*** 🤗.
 
 ## Academic Journey:
 In June 2020, I proudly attained my Ph.D. in Applied Mathematics from the Department of Applied Mathematics at <a href="https://www.cycu.edu.tw"> Chung Yuan Christian University (CYCU)</a>, Taiwan, marking the culmination of years of dedicated study and research. Prior to this achievement, I earned both my B.Sc. and M.Sc. degrees in Mathematics from the prestigious <a href="https://www.usu.ac.id/en"> University of Sumatera Utara</a>, Indonesia. These formative years laid the foundation for my relentless pursuit of mathematical excellence.
