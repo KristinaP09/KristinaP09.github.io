@@ -21,11 +21,8 @@ As I embark on the 2024-2025 job market, I invite fellow enthusiasts of mathemat
 
 
 
-$${\\color{orange}Somewhere \space something \space incredible \space is \space waiting \space to \space be \space known. \space -Carl  \space Sagan-.}$$
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=F7B8F2FF&random=false&width=435&lines=Thanks%20for%20stopping%20by;%20Have%20a%20great%20day!👋&center=true&size=27">
-  </a>
 </h1>
 
 
