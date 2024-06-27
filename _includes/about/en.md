@@ -15,7 +15,8 @@ My research journey is guided by an insatiable curiosity to unravel the mysterie
 I believe that mathematics is not merely a tool but a form of art—a manifestation of beauty and elegance. In my teaching, I strive to instill this appreciation for beauty, recognizing its power to transcend disciplines and inspire creativity. Collaboration and communication are integral to my research philosophy, as I actively seek to foster dialogue within the academic community.
 
 
-
+## Call to Action:
+Explore my <a href="https://github.com/KristinaP09/KristinaP09/blob/main/Kristina P Sinaga Curriculum Vitae.pdf" class="btn-theme btn-theme-md btn-default-bg text-uppercase"> CV</a> for a comprehensive overview of my publications, experiences, and skills. If you share my passion for mathematical discovery, let's connect and explore the possibilities together!
 
 
 <h1 align="center">
