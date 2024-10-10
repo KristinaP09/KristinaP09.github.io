@@ -2,10 +2,10 @@
 title: Kristina P. Sinaga
 SEOTitle: My Personal Webpage
 header-img: img/IMG_2335.jpg
-email: krist.p.sinaga@gmail.com
+email: kristinasinaga41@gmail.com
 description: "Sharing your knowledge to others does not make you less important 😀"
 keyword: ""
-url: "https://patternkps.github.io/" # your host, for absolute URL
+url: "https://KristinaP09.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-github_username: PatternKPS
+github_username: KristinaP09
 linkedin_username:  kristina-p-sinaga-083503302
 
 # Build settings
