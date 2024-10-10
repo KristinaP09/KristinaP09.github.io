@@ -1,14 +1,12 @@
-In June 2020, I graduated from Chung Yuan Christian University (CYCU) with a Ph.D degree in Applied Mathematics. I also earned my B.Sc and M.Sc degrees in Mathematics, from University of North Sumatera, Indonesia, in 2013 and 2015, respectively.In November 2020, I moved back to Indonesia for teaching in graduate program of BINUS university. In March 2023, I moved back to Taiwan for a postdoc in the Department of applied mathematics, CYCU. ***I am currently on the 2024-2025 job market, based in Indonesia but open for relocation.*** 
+Currently, I am a postdoctoral researcher at ISTI-CNR, Italy. I earned my PhD from the Department of Applied Mathematics at Chung Yuan Christian University (CYCU), Taiwan, in June 2020. I have a B.Sc and M.Sc degree in Mathematics, both from University of North Sumatera, Indonesia. Prior to that, I was a lecturer specialist - s3 at BINUS university, Indonesia (from 2020 to 2022). From 2023 to 2024, I was a postdoc fellow in the Department of applied mathematics at CYCU, Taiwan.  
 
-##### For a more in-depth list of publications, experiences, skills, etc., please check my CV <a href="https://github.com/PatternKPS/PatternKPS/blob/main/Curriculum_Vitae.pdf" class="btn-theme btn-theme-md btn-default-bg text-uppercase"> 👉🏽「click here」</a>
 
-`Note: my old email address from yahoo (kristinasinaga57@yahoo.co.id) is no longer active (I forgot my password and disabled to recover). I dropped social media such as facebook or instagram over a year ago (It happened by accident. The accounts still exist but am having no access to it over a year now. Good thing I dont miss it).`
 
 
 <div id="contact">
         <h3>Get in Touch!</h3>
         <div id="contact-form">
-              <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mbjnkngw" method="post">
+              <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xeoqjbkl" method="post">
   <div class="fields">
     <label for="full-name" style="color: green;">Name: </label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
