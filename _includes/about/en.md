@@ -1,4 +1,6 @@
-Currently, I am a postdoctoral researcher at ISTI-CNR, Italy. I obtained my PhD in Applied Mathematics from Chung Yuan Christian University, under the guidance of Prof. Miin-Shen Yang. I have a B.Sc and M.Sc degree in Mathematics, both from University of North Sumatera, Indonesia. Prior to that, I was a lecturer specialist - s3 at BINUS university, Indonesia (from 2020 to 2022). From 2023 to 2024, I was a postdoc fellow in the Department of applied mathematics at CYCU, Taiwan.  
+Currently, I am a postdoctoral researcher at ISTI-CNR, Italy. I obtained my PhD in Applied Mathematics from Chung Yuan Christian University, under the guidance of [Prof. Miin-Shen Yang](https://scholar.google.com/citations?user=DTrFkOYAAAAJ&hl=zh-TW). I have a B.Sc and M.Sc degree in Mathematics, both from University of North Sumatera, Indonesia. Prior to that, I was a lecturer specialist - s3 at BINUS university, Indonesia (from 2020 to 2022). From 2023 to 2024, I was a postdoc fellow in the Department of applied mathematics at CYCU, Taiwan.  
+
+
 
 
 
